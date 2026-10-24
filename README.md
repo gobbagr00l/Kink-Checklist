@@ -7,7 +7,7 @@ Export the list to an image with a single button press.
 
 This project combines the best of all forks of this project
 (in my opinion anyway), featuring over 200 preferences. Gender and body friendly.
-[Fill this version out yourself here](https://gobbagr00l.github.io/Kink-Checklist/v2.1.html)
+[Fill this version out yourself here](https://gobbagr00l.github.io/Kink-Checklist/v2.2.html)
 
 Note: Example is likely to change. This kinklist is meant to be all-encompassing, and many will be added as time goes on.
 #### Example
