@@ -21,6 +21,7 @@ To make your own version, make a fork off this one or another and edit the kinkl
 #### TODO
 
 - Reorganize preferences (new order: Love, Like, Curious, Indifferent, Conditional/Ask, No/Hard Limit, Not Applicable)
+- Remove Partner choices from Bondage, ie. section is setting your own boundaries. Uncertain, open to discuss
 - Turn on/off entire sections
 
 Open to user suggestions! (with exceptions)
