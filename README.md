@@ -1,4 +1,4 @@
-### NOTE: hi, I'm gobbagr00l! this is a fork of a fork meant to be a personal project as well as an exercise to get used to github. Thanks to Goctionni for original code and YesterdayItWasNot for their copius refinements and updates!
+### NOTE: hi! this is a fork of a fork meant to be a personal project as well as an exercise to get used to github. Thanks to Goctionni for original code and YesterdayItWasNot for their copius refinements and updates!
 
 # Kink Checklist
 Easily create a visually easy to parse infographic of turn-ons, turn-offs, kinks, and more.
@@ -20,9 +20,8 @@ To make your own version, make a fork off this one or another and edit the kinkl
 
 #### TODO
 
-- Reorganize preferences (new order: Love, Like, Curious, Indifferent, Conditional/Ask, No/Hard Limit, Not Applicable)
 - Remove Partner choices from Bondage, ie. section is setting your own boundaries. Uncertain, open to discuss
-- Turn on/off entire sections
+- Turn on/off entire sections (maybe. i might just let you do it yourself)
 
 Open to user suggestions! (with exceptions)
 
