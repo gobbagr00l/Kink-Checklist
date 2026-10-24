@@ -20,6 +20,8 @@ To make your own version, make a fork off this one or another and edit the kinkl
 
 #### TODO
 
+- Reorganize preferences (new order: Love, Like, Curious, Indifferent, Conditional/Ask, No/Hard Limit, Not Applicable)
+
 Open to user suggestions! (with exceptions)
 
 
