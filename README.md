@@ -3,6 +3,8 @@ Easily create a visually easy to parse infographic of turn-ons, turn-offs, kinks
 Edit what's on the list with a text based editor.
 Export the list to an image with a single button press.
 
+##NOTE: hi, I'm gobbagr00l! this is a fork of a fork meant to be a personal project as well as an exercise to get used to github. bleh
+
 This project combines the best of all forks of this project
 (in my opinion anyway), featuring over 200 preferences. Gender and body friendly.
 [Fill this version out yourself here](https://kinklist.io)
