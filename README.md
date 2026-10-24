@@ -1,13 +1,13 @@
-# KinkList
+### NOTE: hi, I'm gobbagr00l! this is a fork of a fork meant to be a personal project as well as an exercise to get used to github. Thanks to Goctionni for original code and YesterdayItWasNot for their copius refinements and updates!
+
+# Kink Checklist
 Easily create a visually easy to parse infographic of turn-ons, turn-offs, kinks, and more.
 Edit what's on the list with a text based editor.
 Export the list to an image with a single button press.
 
-### NOTE: hi, I'm gobbagr00l! this is a fork of a fork meant to be a personal project as well as an exercise to get used to github. bleh
-
 This project combines the best of all forks of this project
 (in my opinion anyway), featuring over 200 preferences. Gender and body friendly.
-[Fill this version out yourself here](https://gobbagr00l.github.io/Kink-Checklist/v2.01.html)
+[Fill this version out yourself here](https://gobbagr00l.github.io/Kink-Checklist/v2.1.html)
 
 Note: Example is likely to change. This kinklist is meant to be all-encompassing, and many will be added as time goes on.
 #### Example
@@ -20,7 +20,7 @@ To make your own version, make a fork off this one or another and edit the kinkl
 
 #### TODO
 
-Add Caging and Suspension
+Open to user suggestions! (with exceptions)
 
 
 # Kinklist Editor
